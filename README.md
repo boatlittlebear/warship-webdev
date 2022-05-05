@@ -50,7 +50,9 @@
 <hr>
 
 ### ผู้พัฒนาเว็บไซต์
-
+| <img src="https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Sirion.jpg" width="300px" height="300px"> | 
+|--||--|
+|ชื่อ - นามสกุล ||ผศ.ดร.สิริอร วิทยากร|
 |รูปภาพ||รหัสนักศึกษา| ชื่อ - นามสกุล | Github | หน้าที่ | หมายเหตุ |
 |:-:||--|--|--|--|--|
 |<img src="https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Sirion.jpg" width="150px" height="150px">| | 62070026 | นายจักรกฤษณ์ สายแฉ่ง | [boatlittlebear](https://github.com/boatlittlebear) | - พัฒนาระบบการสร้างห้องของและการเข้าห้อง<br /> - พัฒนาระบบเกมเพลย์ในส่วนของการโจมตีและป้องกัน<br /> - พัฒนาระบบหมดอายุของห้อง | - |
