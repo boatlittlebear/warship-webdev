@@ -65,7 +65,7 @@
 |รูปภาพ|รหัสนักศึกษา| ชื่อ - นามสกุล | Github | หน้าที่ | หมายเหตุ |
 |--|--|--|--|--|--|
 | <img src="https://cdn.discordapp.com/attachments/946408815119699998/971869360782192690/unknown.png" width="150px" height="150px"> | 62070026 | จักรกฤษณ์ สายแฉ่ง | [boatlittlebear](https://github.com/boatlittlebear) | - พัฒนาระบบการสร้างห้องของเกม<br />และการเข้าห้องของเกม<br /> - พัฒนาระบบเกมเพลย์ในส่วนของการโจมตี<br />และป้องกัน<br /> - พัฒนาระบบหมดอายุของห้อง | - |
-| <img src="https://cdn.discordapp.com/attachments/946408815119699998/971869291232264202/unknown.png" width="150px" height="150px"> | 62070129 | พงศธร เหลืองประเสริฐ | [barost2709](https://github.com/barost2709) | - พัฒนาในส่วน CSS ของเว็บไซต์" <br /> - ทำฟังก์ชั่น Sign in / <br />Log in / Log out ด้วย Google Authentication<br /> - พัฒนาระบบการสุ่มเรือ | - |
+| <img src="https://cdn.discordapp.com/attachments/946408815119699998/971870785931206657/unknown.png" width="150px" height="150px"> | 62070129 | พงศธร เหลืองประเสริฐ | [barost2709](https://github.com/barost2709) | - พัฒนาในส่วน CSS ของเว็บไซต์" <br /> - ทำฟังก์ชั่น Sign in / <br />Log in / Log out (Google Authentication)<br /> - พัฒนาระบบการสุ่มเรือ | - |
 | <img src="https://cdn.discordapp.com/attachments/946408815119699998/971869195182682152/unknown.png" width="150px" height="150px"> | 62070129 | เสฏฐนันท์ จงเจตน์ดี | [sedthanun](https://github.com/sedthanun) | - ออกแบบ UI (Adobe XD) /<br /> Graphic Design <br /> - พัฒนาระบบฐานข้อมูลของเว็บไซต์<br /> - พัฒนาระบบการเก็บสกอร์เข้าใน Database<br /> - ออกแบบและพัฒนา หน้า Homepage <br />และ How to play ของเกม | - |
 
 
