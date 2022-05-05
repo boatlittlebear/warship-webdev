@@ -36,12 +36,16 @@
 
 - [เว็บไซต์เต็ม]()
 
+### ดาวน์โหลดเกม
+
+- [ดาวน์โหลดเกมเวอร์ชั่นล่าสุด]()
+
 ### ผู้พัฒนาเว็บไซต์
 
 |รูปภาพ||รหัสนักศึกษา| ชื่อ - นามสกุล | Github | หน้าที่ | หมายเหตุ |
 |--||--|--|--|--|--|
-|| | 62070026 | นายจักรกฤษณ์ สายแฉ่ง | [boatlittlebear](https://github.com/boatlittlebear) | - พัฒนาระบบการสร้างห้องของและการเข้าห้อง<br /> - พัฒนาระบบเกมเพลย์ในส่วนของการโจมตีและป้องกัน<br /> - พัฒนาระบบหมดอายุของห้อง | - |
-|| | 62070129 | นายพงศธร เหลืองประเสริฐ | [barost2709](https://github.com/barost2709) | - พัฒนาในส่วน CSS ของเว็บไซต์" <br /> - ทำฟังก์ชั่น Sign in / Log in / Log out ด้วย Google Authentication<br /> - พัฒนาระบบการสุ่มเรือ | - |
-|| | 62070129 | นายเสฏฐนันท์ จงเจตน์ดี | [sedthanun](https://github.com/sedthanun) | - ออกแบบ UI (Adobe XD) / Graphic Design <br /> - พัฒนาระบบฐานข้อมูลของเว็บไซต์<br /> - พัฒนาระบบการเก็บสกอร์เข้าใน Database<br /> - ออกแบบและพัฒนา หน้า Homepage และ How to play ของเกม | - |
+|<img src="https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Sirion.jpg" width="150px" height="150px">| | 62070026 | นายจักรกฤษณ์ สายแฉ่ง | [boatlittlebear](https://github.com/boatlittlebear) | - พัฒนาระบบการสร้างห้องของและการเข้าห้อง<br /> - พัฒนาระบบเกมเพลย์ในส่วนของการโจมตีและป้องกัน<br /> - พัฒนาระบบหมดอายุของห้อง | - |
+|<img src="https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Sirion.jpg" width="150px" height="150px">| | 62070129 | นายพงศธร เหลืองประเสริฐ | [barost2709](https://github.com/barost2709) | - พัฒนาในส่วน CSS ของเว็บไซต์" <br /> - ทำฟังก์ชั่น Sign in / Log in / Log out ด้วย Google Authentication<br /> - พัฒนาระบบการสุ่มเรือ | - |
+|<img src="https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Sirion.jpg" width="150px" height="150px">| | 62070129 | นายเสฏฐนันท์ จงเจตน์ดี | [sedthanun](https://github.com/sedthanun) | - ออกแบบ UI (Adobe XD) / Graphic Design <br /> - พัฒนาระบบฐานข้อมูลของเว็บไซต์<br /> - พัฒนาระบบการเก็บสกอร์เข้าใน Database<br /> - ออกแบบและพัฒนา หน้า Homepage และ How to play ของเกม | - |
 
 
