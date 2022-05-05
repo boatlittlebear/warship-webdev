@@ -19,7 +19,7 @@
 
 ### อาจารย์ที่ปรึกษา
 
-| <img src="https://cdn.discordapp.com/attachments/946408815119699998/971846455717396490/Sirion-150x150.jpg" width="300px" height="300px"> | 
+| <img align="center" src="https://cdn.discordapp.com/attachments/946408815119699998/971846641659314226/54200968_10157107803903209_592622108647882752_n.jpg" width="300px" height="300px"> | 
 |:-:|
 |ผศ.ดร.สิริอร วิทยากร|
 
