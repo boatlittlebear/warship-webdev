@@ -43,7 +43,7 @@
   <img src="https://cdn.discordapp.com/attachments/946408815119699998/971864101703802970/bootstrap-logo-vector.png" width="250px" height="250px">
   <img src="https://cdn.discordapp.com/attachments/946408815119699998/971864773576757358/firebase_logo_shot.png" width="250px" height="250px">
   <img src="https://cdn.discordapp.com/attachments/946408815119699998/971864773354483723/nodejs_logo_banner_01-600x314-1.png" width="250px" height="250px">
-  <https://cdn.discordapp.com/attachments/946408815119699998/972023275926462524/unknown.png" width="250px" height="250px">
+  <img src="https://cdn.discordapp.com/attachments/946408815119699998/972023275926462524/unknown.png" width="250px" height="250px">
   <img src="https://cdn.discordapp.com/attachments/946408815119699998/971864455778557952/images.png" width="250px" height="250px">
 </p>
 
