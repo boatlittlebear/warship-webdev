@@ -36,6 +36,12 @@
 
 - [เว็บไซต์เต็ม](https://webdesigin-warship.netlify.app/)
 
+### คู่มือการติดตั้ง
+- [คู่มือการติดตั้ง]()
+
+### อ้างอิง
+- [อ้างอิง](https://reactjs.org/)
+
 ### เทคโนโลยีที่นำเข้ามาใช้พัฒนาเว็บไซต์
 
 <p align="center">
@@ -46,16 +52,6 @@
   <img src="https://cdn.discordapp.com/attachments/946408815119699998/972058287421931520/node2.jpg" width="250px" height="150px">
   <img src="https://cdn.discordapp.com/attachments/946408815119699998/972056030848630784/express2.jpg" width="250px" height="150px">
 </p>
-
-### ดาวน์โหลดเกม
-
-- [ดาวน์โหลดเกมเวอร์ชั่นล่าสุด]()
-
-### คำอธิบายไฟล์
-- [คำอธิบายไฟล์]()
-
-### อ้างอิง
-- [อ้างอิง]()
 
 <hr>
 
