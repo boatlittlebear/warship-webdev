@@ -37,7 +37,7 @@
 - [เว็บไซต์เต็ม](https://webdesigin-warship.netlify.app/)
 
 ### คู่มือการติดตั้ง
-- [คู่มือการติดตั้ง]()
+- [คู่มือการติดตั้ง](https://drive.google.com/file/d/18OKgzki4SGseadOKsmuAsBhiqaTbQb4w/view?fbclid=IwAR12jd2vEt9xlIDMqGX_SXMtaGCzbiX8hUHkbOE3LJJoAi-Q-3tJUmhhgSw)
 
 ### อ้างอิง
 - [อ้างอิง](https://reactjs.org/)
