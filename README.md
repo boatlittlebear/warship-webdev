@@ -39,12 +39,12 @@
 ### เทคโนโลยีที่นำเข้ามาใช้พัฒนาเว็บไซต์
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/946408815119699998/971863545379713134/course_6020_image.png" width="250px" height="250px">
-  <img src="https://cdn.discordapp.com/attachments/946408815119699998/971864101703802970/bootstrap-logo-vector.png" width="250px" height="250px">
-  <img src="https://cdn.discordapp.com/attachments/946408815119699998/971864773576757358/firebase_logo_shot.png" width="250px" height="250px">
-  <img src="https://cdn.discordapp.com/attachments/946408815119699998/971864773354483723/nodejs_logo_banner_01-600x314-1.png" width="250px" height="250px">
+  <img src="https://cdn.discordapp.com/attachments/946408815119699998/971863545379713134/course_6020_image.png" width="250px" height="200px">
+  <img src="https://cdn.discordapp.com/attachments/946408815119699998/971864101703802970/bootstrap-logo-vector.png" width="250px" height="200px">
+  <img src="https://cdn.discordapp.com/attachments/946408815119699998/971864773576757358/firebase_logo_shot.png" width="250px" height="200px">
+  <img src="https://cdn.discordapp.com/attachments/946408815119699998/971864773354483723/nodejs_logo_banner_01-600x314-1.png" width="250px" height="200px">
   <img src="https://cdn.discordapp.com/attachments/946408815119699998/972024751029645312/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67.png" width="250px" height="250px">
-  <img src="https://cdn.discordapp.com/attachments/946408815119699998/971864455778557952/images.png" width="250px" height="250px">
+  <img src="https://cdn.discordapp.com/attachments/946408815119699998/971864455778557952/images.png" width="250px" height="200px">
 </p>
 
 ### ดาวน์โหลดเกม
