@@ -39,12 +39,12 @@
 ### เทคโนโลยีที่นำเข้ามาใช้พัฒนาเว็บไซต์
 
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/946408815119699998/971863545379713134/course_6020_image.png" width="250px" height="150px">
-  <img src="https://cdn.discordapp.com/attachments/946408815119699998/971864101703802970/bootstrap-logo-vector.png" width="250px" height="150px">
-  <img src="https://cdn.discordapp.com/attachments/946408815119699998/971864773576757358/firebase_logo_shot.png" width="250px" height="150px">
-  <img src="https://cdn.discordapp.com/attachments/946408815119699998/971864773354483723/nodejs_logo_banner_01-600x314-1.png" width="250px" height="150px">
-  <img src="https://cdn.discordapp.com/attachments/946408815119699998/972024751029645312/68747470733a2f2f766567696269742e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30352f657870726573736a732e706e67.png" width="250px" height="150px">
-  <img src="https://cdn.discordapp.com/attachments/946408815119699998/971864455778557952/images.png" width="250px" height="150px">
+  <img src="https://cdn.discordapp.com/attachments/946408815119699998/972052075242487808/html2.jpg" width="250px" height="150px">
+  <img src="https://cdn.discordapp.com/attachments/946408815119699998/972052075024379914/boot2.jpg" width="250px" height="150px">
+  <img src="https://cdn.discordapp.com/attachments/946408815119699998/972052402012307496/Firebase2.jpg" width="250px" height="150px">
+  <img src="https://cdn.discordapp.com/attachments/946408815119699998/972055478140039218/React2.jpg" width="250px" height="150px">
+  <img src="https://cdn.discordapp.com/attachments/946408815119699998/972058287421931520/node2.jpg" width="250px" height="150px">
+  <img src="https://cdn.discordapp.com/attachments/946408815119699998/972056030848630784/express2.jpg" width="250px" height="150px">
 </p>
 
 ### ดาวน์โหลดเกม
@@ -62,18 +62,26 @@
 
 ### ผู้พัฒนาเว็บไซต์
 
-|| <img src="https://www.it.kmitl.ac.th/wp-content/uploads/2018/03/Sirion.jpg" width="300px" height="300px"> | 
+|| <img src="https://cdn.discordapp.com/attachments/946408815119699998/971869360782192690/unknown.png" width="300px" height="300px"> | 
 |--|--|
 | รหัสนักศึกษา |62070026|
-| ชื่อ - นามสกุล |ผศ.ดร.สิริอร วิทยากร|
-| Github ||
-| หน้าที่ ||
-| หมายเหตุ||
+| ชื่อ - นามสกุล |จักรกฤษณ์ สายแฉ่ง|
+| Github |[boatlittlebear](https://github.com/boatlittlebear)|
+| หน้าที่ |- พัฒนาระบบการสร้างห้องของเกมและการเข้าห้องของเกม<br /> - พัฒนาระบบเกมเพลย์ในส่วนของการโจมตีและป้องกัน<br /> - พัฒนาระบบหมดอายุของห้อง|
+| หมายเหตุ| - |
 
-|รูปภาพ|รหัสนักศึกษา| ชื่อ - นามสกุล | Github | หน้าที่ | หมายเหตุ |
-|--|--|--|--|--|--|
-| <img src="https://cdn.discordapp.com/attachments/946408815119699998/971869360782192690/unknown.png" width="150vw" height="170vh"> | 62070026 | จักรกฤษณ์ สายแฉ่ง | [boatlittlebear](https://github.com/boatlittlebear) | - พัฒนาระบบการสร้างห้องของเกม<br />และการเข้าห้องของเกม<br /> - พัฒนาระบบเกมเพลย์ในส่วนของการโจมตี<br />และป้องกัน<br /> - พัฒนาระบบหมดอายุของห้อง | - |
-| <img src="https://cdn.discordapp.com/attachments/946408815119699998/971870785931206657/unknown.png" width="150vw" height="170vh"> | 62070129 | พงศธร เหลืองประเสริฐ | [barost2709](https://github.com/barost2709) | - พัฒนาในส่วน CSS ของเว็บไซต์" <br /> - ทำฟังก์ชั่น Sign in / <br />Log in / Log out (Google Authentication)<br /> - พัฒนาระบบการสุ่มเรือ | - |
-| <img src="https://cdn.discordapp.com/attachments/946408815119699998/971869195182682152/unknown.png" width="150vw" height="170vh"> | 62070212 | เสฏฐนันท์ จงเจตน์ดี | [sedthanun](https://github.com/sedthanun) | - ออกแบบ UI (Adobe XD) /<br /> Graphic Design <br /> - พัฒนาระบบฐานข้อมูลของเว็บไซต์<br /> - พัฒนาระบบการเก็บสกอร์เข้าใน Database<br /> - ออกแบบและพัฒนา หน้า Homepage <br />และ How to play ของเกม | - |
+|| <img src="https://cdn.discordapp.com/attachments/946408815119699998/971870785931206657/unknown.png" width="300px" height="300px"> | 
+|--|--|
+| รหัสนักศึกษา |62070129|
+| ชื่อ - นามสกุล |พงศธร เหลืองประเสริฐ|
+| Github |[barost2709](https://github.com/barost2709)|
+| หน้าที่ |- พัฒนาในส่วน CSS ของเว็บไซต์<br /> - ทำฟังก์ชั่น Sign in / Log in / Log out (Google Authentication)<br /> - พัฒนาระบบการสุ่มเรือ|
+| หมายเหตุ| - |
 
-
+|| <img src="https://cdn.discordapp.com/attachments/946408815119699998/971869195182682152/unknown.png" width="300px" height="300px"> | 
+|--|--|
+| รหัสนักศึกษา |62070212|
+| ชื่อ - นามสกุล |เสฏฐนันท์ จงเจตน์ดี|
+| Github |[sedthanun](https://github.com/sedthanun)|
+| หน้าที่ | - ออกแบบ UI (Adobe XD) / Graphic Design<br /> - พัฒนาระบบฐานข้อมูลของเว็บไซต์<br /> - พัฒนาระบบการเก็บสกอร์เข้าใน Database<br /> - ออกแบบและพัฒนา หน้า Homepage และ How to play ของเกม |
+| หมายเหตุ| - | 
