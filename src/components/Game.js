@@ -74,7 +74,7 @@ export default function Game() {
   ];
 
   useEffect(() => {
-    if (!isFoundHost && retryFindingHost > 20) {
+    if (!isFoundHost && retryFindingHost ) {
       setAlertExpireState(true);
       setModalShowExpireState(true);
     }
